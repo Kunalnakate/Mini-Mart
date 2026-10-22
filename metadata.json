@@ -1,0 +1,6 @@
+{
+  "name": "Mini Mart 3D - YouTube Playables",
+  "description": "Run your own bustling 3D supermarket! Harvest crops, stock display stands, serve queuing customers, ring up cash, and expand your market empire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
